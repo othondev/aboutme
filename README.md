@@ -1,3 +1,5 @@
+[![CI](https://github.com/othondev/aboutme/actions/workflows/ci.yml/badge.svg)](https://github.com/othondev/aboutme/actions/workflows/ci.yml)
+
 # Turborepo starter
 
 This is an official starter Turborepo.
